@@ -25,4 +25,5 @@ eureka:
   client:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka/
-evn:666
+evn:
+  666
